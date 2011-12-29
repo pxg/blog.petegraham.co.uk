@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="83"
+   name=""
+   committed-date="2009-11-13T16:21:15.765855Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-content/plugins/akismet"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="2"
+   name="akismet.gif"
+   text-time="2009-11-13T14:56:31.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="67a9581cbfcbeae70439582269022c45"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:31.000000Z"/>
+<entry
+   committed-rev="83"
+   name="akismet.php"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="456e43efa8df773bc6ed625f28f2a303"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+<entry
+   committed-rev="83"
+   name="readme.txt"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="58e086dea9d24ed074fe84ba87386c69"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+</wc-entries>

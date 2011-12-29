@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/js/tinymce/plugins/inlinepopups/skins/clearlooks2/img"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="84"
+   name="button.gif"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="9e911a2c3cb4720d44844ef2d1832a51"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+<entry
+   committed-rev="84"
+   name="corners.gif"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="2e89a17a473f0e488f3e789ce998f064"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+<entry
+   committed-rev="84"
+   name="confirm.gif"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="44f1d55b14fbc66b98f3899d90611c3c"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+<entry
+   committed-rev="84"
+   name="drag.gif"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="c8984e70b184ca51bc427aa106c29453"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+<entry
+   committed-rev="84"
+   name="buttons.gif"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="2e101a4aa637bfd16cef7e763e8c2eed"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+<entry
+   committed-rev="84"
+   name="alert.gif"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="56646a5e811547c8bc3d1b9790496b89"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+<entry
+   committed-rev="84"
+   name="horizontal.gif"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="0365e75dd4a9ad61dc98dcb641207c21"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+<entry
+   committed-rev="84"
+   name="vertical.gif"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="193884a332e91059643448ed4bde2e04"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+</wc-entries>

@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-11-13T16:15:22.658268Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-admin/css"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="82"
+   name="ie-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="a0d306ff28ee7a91c04dd2ba920d589a"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="ie.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="886e4191f990f81168d9d9e7c842ca6a"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="global-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="639432085f54f73cc7857d5e6b3fdb22"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="global.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="5ec06085a2ae7d41dcfcc9f48701caaf"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="press-this-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="098fcc8fa903f68d4827a80b19ed8624"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="plugin-install-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="ff2cc41b3ec965996608fc6a416c0d34"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="press-this.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="fb5beaa57223ab3cd864e925731bf76f"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="plugin-install.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="48705f886f1714e4c4c130e5fa7443f8"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="install-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="39eb6cb46f5071727c143ba407b54b53"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="colors-fresh-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="eee458d5eaf8a119e8543f311b3b77ed"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="widgets-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="c72b211f292a7ac48348b3aa47e8f9c1"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="install.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="0380e33272aa60d16b2e7d405e7288a8"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="colors-fresh.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="04f64d74b428649848955844036812f2"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="theme-install.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="caca2d1c6d7f70138a2cae7cff992f9c"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="widgets.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="c4d1ad88ee2a59c096cee1ac30690056"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="login-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="d356512a353a71d70dbeddc53fdf93ce"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="login.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="c6f1a4e8396191754e8043b78cc6e8b1"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="media-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="8d9762bb606d52329ce469823b56119d"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="colors-classic-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="74e3bc0961e42685a1b2918ee21de19f"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="media.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="56b3176fa896ff69ebea6d6689f1b5df"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:34.000000Z"/>
+<entry
+   committed-rev="82"
+   name="colors-classic.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="4f0524bd41bf91793c2eab07e8737b24"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:35.000000Z"/>
+<entry
+   committed-rev="82"
+   name="farbtastic-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="117dc1e6ac587635c98975cfcdfb0444"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:35.000000Z"/>
+<entry
+   committed-rev="82"
+   name="farbtastic.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="b45e420bae504bad3ad026f11fb34414"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:35.000000Z"/>
+<entry
+   committed-rev="82"
+   name="theme-editor-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="67937f3a3e8e4b9eeaa5fe15c1cce63b"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:35.000000Z"/>
+<entry
+   committed-rev="82"
+   name="dashboard-rtl.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="81238c176822f1efd9d121eea5fbb3d7"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:35.000000Z"/>
+<entry
+   committed-rev="82"
+   name="theme-editor.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="1d469fa64b12915edd13d68148453c72"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:35.000000Z"/>
+<entry
+   committed-rev="82"
+   name="dashboard.css"
+   text-time="2009-11-13T16:38:35.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="9c505ae63a80736883260c90740e2e7c"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:35.000000Z"/>
+</wc-entries>

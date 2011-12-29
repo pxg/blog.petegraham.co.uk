@@ -1,0 +1,547 @@
+/*  
+Theme Name: Abstrakt
+Theme URI: http://www.kaushalsheth.com/
+Description: Modified WheatGrass Theme featuring Top Level Menu and Support for Widgets
+Version: 2.0
+Author: Kaushal Sheth
+Author URI: http://www.kaushalsheth.com/
+
+
+Last modified on Nov 05, 2006
+	The CSS, XHTML and design is released under GPL:
+	http://www.opensource.org/licenses/gpl-license.php
+	
+	Tweak this CSS howsoever you will.
+	
+	*** REGARDING IMAGES ***
+	All CSS that involves the use of images, can be found in the 'index.php' file.
+	This is to ease installation inside subdirectories of a server.
+	
+	CSS SECTIONS IN ORDER (use your program's bookmarking or find functions to quickly locate):
+	Sidebar, Posts, Headings, Images, Forms, Comments, Content Area, Footer
+	
+
+*/
+
+/* Sidebar */
+
+#sidebar h2 {
+	font-family: Georgia, Serif;
+	font-size: 1.2em;
+	margin: 15px 0 10px 0;
+	padding: 0;
+	}
+
+#sidebar {
+	padding: 20px 0 10px 0;
+	margin-left: 545px;
+	width: 190px;
+	font: 1.2em Verdana, Arial, Sans-Serif;
+	color: #000;
+	}
+
+.page_item {
+	font-weight: bold;
+	font-size: 140%;	
+	}
+
+.page_item a:hover {
+	text-decoration: none;
+	}
+
+.page item current_page_item {
+	color: #000;
+	}
+
+#sidebar ul ul .page_item {
+	font-size: 80%;
+	}
+	
+.navigation {
+	display: block;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 60px;
+	}
+
+#sidebar ul, #sidebar ul ol {
+	margin: 0;
+	padding: 0;
+	}
+
+#sidebar ul li {
+	list-style-type: none;
+	list-style-image: url('none');
+	margin-bottom: 5px
+	}
+
+#sidebar ul p, #sidebar ul select {
+	margin: 5px 0 8px;
+	}
+
+#sidebar ul ul, #sidebar ul ol {
+	margin: 5px 0 0 10px;
+	}
+
+#sidebar ul ul ul, #sidebar ul ol {
+	margin: 0 0 0 10px;
+	}
+
+ol li, #sidebar ul ol li {
+	list-style: decimal outside;
+	}
+
+#sidebar ul ul li, #sidebar ul ol li {
+	margin: 3px 0 0;
+	padding: 0;
+	}
+
+/* Posts */
+
+.widecolumn .postmetadata {
+	margin: 30px 0;
+	font-size: 1em;
+	}
+
+.entry p a:visited {
+	color: #666;
+	}
+
+.entry p, .entrytext  {
+	font-family: Georgia, serif;
+	font-size: 1.3em;
+	line-height: 1.5em;
+	text-align: left;
+	}
+	
+.widecolumn .entry p {
+	font-size: 1.3em;
+	}
+
+.narrowcolumn .entry, .widecolumn .entry {
+	line-height: 1.4em;
+	}
+
+.widecolumn {
+	line-height: 1.6em;
+	}
+
+small {
+	font-family: Verdana, Arial, Helvetica, Sans-Serif;
+	font-size: 0.9em;
+	line-height: 2.5em;
+	}
+
+.narrowcolumn {
+	float: left;
+	padding: 0 0 20px 45px;
+	margin: 0px 0 0;
+	width: 450px;
+	}
+
+.widecolumn {
+	padding: 10px 0 20px 0;
+	margin: 5px 0 0 150px;
+	width: 450px;
+	}
+	
+.post {
+	margin: 0 0 40px;
+	}
+
+.widecolumn .post {
+	margin: 0;
+	}
+
+.narrowcolumn .postmetadata {
+	padding: 5px;
+	line-height: 1.5;
+	}
+	/*
+
+html>body .entry ul {
+	margin-left: 0px;
+	padding: 0 0 0 30px;
+	list-style: none;
+	padding-left: 10px;
+	text-indent: -10px;
+	} 
+
+html>body .entry li {
+	margin: 7px 0 8px 10px;
+	}
+*/
+/*
+.entry ol {
+	padding: 0 0 0 35px;
+	margin: 0;
+	}
+
+.entry ol li {
+	margin: 0;
+	padding: 0;
+	}*/
+
+.postmetadata ul, .postmetadata li {
+	display: inline;
+	list-style-type: none;
+	list-style-image: url('none');
+	}
+	
+/* Headings */
+
+h1, h2, h3 {
+	font-family: Verdana, Arial, Sans-Serif;
+	}
+
+h1 {
+	font-size: 3em;
+	text-align: center;
+	}
+
+.description {
+	font-size: 1.7em;
+	text-align: center;
+	}
+
+h2 {
+	font-size: 1.6em;
+	}
+
+h2.pagetitle {
+	font-size: 1.6em;
+	}
+
+h3 {
+	font-size: 1.3em;
+	}
+
+h1, h1 a, h1 a:hover, h1 a:visited, .description {
+	text-decoration: none;
+	color: black;  
+	}
+
+h2, h2 a, h2 a:visited, h3, h3 a, h3 a:visited {
+	color: #000;
+	}
+
+h2, h2 a, h2 a:hover, h2 a:visited, h3, h3 a, h3 a:hover, h3 a:visited, #sidebar h2, #wp-calendar caption, cite {
+	text-decoration: none;
+	}
+
+h1 {
+	padding-top: 60px;
+	margin: 0;
+	}
+
+.description {
+	text-align: center;
+	}
+
+h2 {
+	margin: 30px 0 0 0;
+	color: #000;
+	}
+
+h2.pagetitle {
+	margin-top: 30px;
+}
+
+h3 {
+	padding: 0;
+	margin: 30px 0 0;
+	}
+
+h3.comments {
+	padding: 0;
+	margin: 40px auto 20px ;
+	}
+
+/* Images */
+p img {
+	padding: 0;
+	max-width: 100%;
+	}
+
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	display: inline;
+	}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	display: inline;
+	}
+
+.alignright {
+	float: right;
+	}
+	
+.alignleft {
+	float: left
+	}
+
+/* Forms */
+#searchform {
+	margin: 0 auto 10px;
+	padding: 5px 3px; 
+	text-align: center;
+	}
+
+#sidebar #searchform #s {
+	width: 115px;
+	padding: 2px;
+	}
+
+#sidebar #searchsubmit {
+	padding: 1px;
+	}
+
+.entry form { /* This is mainly for password protected posts, makes them look better. */
+	text-align:center;
+	}
+
+select {
+	width: 130px;
+	}
+
+#commentform input {
+	width: 170px;
+	padding: 2px;
+	margin: 5px 5px 1px 0;
+	}
+
+#commentform textarea {
+	width: 100%;
+	padding: 2px;
+	border: 1px solid #c2c2c2;
+	}
+
+#commentform #submit {
+	margin: 0;
+	float: right;
+	}
+
+/* Comments */
+.alt {
+	margin: 0;
+	padding: 10px;
+	border: 1px solid #cecece;
+	}
+
+.commentlist {
+	padding: 0;
+	text-align: justify;
+	}
+
+.commentlist li {
+	margin: 15px 0 3px;
+	padding: 5px 10px 3px;
+	list-style: none;
+	}
+
+.commentlist p {
+	margin: 10px 5px 10px 0;
+	}
+
+#commentform p {
+	margin: 5px 0;
+	}
+
+.nocomments {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	}
+
+.commentmetadata {
+	margin: 0;
+	display: block;
+	}
+
+.commentlist li, #commentform input, #commentform textarea {
+	font: 0.9em Verdana, Arial, Sans-Serif;
+	}
+	
+.commentlist li {
+	font-weight: bold;
+	}
+
+.commentlist cite, .commentlist cite a {
+	font-weight: bold;
+	font-style: normal;
+	font-size: 1.1em;
+	}
+
+.commentlist p {
+	font-weight: normal;
+	line-height: 1.5em;
+	text-transform: none;
+	}
+
+#commentform p {
+	font-family: Verdana, Arial, Sans-Serif;
+	}
+
+.commentmetadata {
+	font-weight: normal;
+	}
+
+/* Main Content Area */
+
+body {
+	font-size: 62.5%; /* Resets 1em to 10px */
+	font-family: Verdana, Arial, Sans-Serif;
+	background-color: #d5d6d7;
+	color: #000;
+	text-align: center;
+	margin: 0;
+	padding: 0; 
+	}
+	
+#page {
+	border: 1px solid #959596;
+	text-align: left;
+	background-color: white;
+	margin: 20px auto;
+	padding: 0;
+	width: 761px;
+	border: 1px solid #959596;
+	}
+
+#header {
+	padding: 0;
+	margin: 0 auto;
+	height: 200px;
+	width: 100%;
+	background-color: #73a0c5;
+	}
+
+#content {
+	font-size: 1.2em
+	}
+
+code {
+	font: 1.1em 'Courier New', Courier, Fixed;
+	}
+
+acronym, abbr, span.caps
+{
+	font-size: 0.9em;
+	letter-spacing: .07em;
+	}
+
+a, h2 a:hover, h3 a:hover {
+	color: #c60;
+	text-decoration: none;
+	}
+
+a:hover {
+	color: #f90;
+	text-decoration: underline;
+	}
+	
+#headerimg {
+	margin: 0;
+	height: 200px;
+	width: 100%;
+	}
+
+acronym, abbr, span.caps {
+	cursor: help;
+	}
+
+acronym, abbr {
+	border-bottom: 1px dashed #999;
+	}
+
+blockquote {
+	margin: 15px 30px 0 10px;
+	padding-left: 20px;
+	border: 3px double #cecece;
+	font-style: italic;
+	}
+
+blockquote cite {
+	margin: 5px 0 0;
+	display: block;
+	}
+
+.center {
+	text-align: center;
+	}
+
+hr {
+	display: none;
+	}
+
+a img {
+	border: none;
+	}
+
+/* Footer */
+
+#footer {
+	background-color: #333;
+	color: #fff;
+	padding: 0 0 0 1px;
+	margin: 0 auto;
+	width: 760px;
+	clear: both;
+	}
+
+#footer p {
+	margin: 0;
+	padding: 20px 0;
+	text-align: center;
+	}
+
+#footer a {
+	color: #fff;
+	}	
+
+/* added menu*/
+
+/* Top Level Menu*/
+#menu {
+	width:740px;
+	padding:20px 0px 20px 0px;
+	margin-left:11px;
+	background-color:#718748;
+	margin-bottom: 20px;
+	color:#FFFFFF;
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-variant:small-caps;
+	background-image: url('images/menu.gif');
+}
+#menu a {
+	color:#FFFFFF;
+	text-decoration:none;
+	padding:10px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-left:10px;
+	margin-right:10px;	
+}
+#menu a:hover {
+	border-bottom:1px solid #ffffff;
+	border-left:1px solid #728d40;
+	border-right:1px solid #e9ffb7;
+	padding-left:9px;
+	padding-right:9px;
+	color:#000000;
+	background-color:#FFFFFF;
+	background-image: url('images/a_hover.jpg');
+}
+
+

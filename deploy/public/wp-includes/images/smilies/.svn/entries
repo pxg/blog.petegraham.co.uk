@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-01-07T23:44:32.188793Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/images/smilies"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="2"
+   name="icon_eek.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="52e43743e38a67d5d28845a104ca8c7d"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:07.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_confused.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="4affed1b55e5f73c9f0675ae7d0ad823"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_sad.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="5a50535a06def9d01076772e5e9d235b"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_question.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="0518596a4eb94c32a2b2ed898bdc3549"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_wink.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="f058206bb8ff732dbe8e7aa10d74c9cd"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_smile.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="9ee646ffab71107d1a11407be52f33a5"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_neutral.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="4e8b7a51c7f60a2362a4f67fbbc937e7"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_surprised.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="ae735b5dd659dc4b3b0f249ce59bef79"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_biggrin.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="f970a6591668c625e4b9dbd3b7a450d7"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_exclaim.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="da86bbf377f97d06047aa781a582c52f"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_twisted.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="c9c3d12da1e9da699e490b86d24eee85"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_lol.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="b76e7729d43c4a49182d020741285bef"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_razz.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="7aec68426aa06f01e2b1ac250e5aee62"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_redface.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="d7e9d095432cbcf09375ffc782c30c23"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_arrow.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="394bffa679f650b7d2f22aa263cc06ba"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_cool.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="25c83ea511f206e88f214719dad9c88c"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_cry.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="7605eca95aaeda46e641745ef6f0e0b0"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_rolleyes.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="19071b1af987946e96dcef6ce0611c6b"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_mrgreen.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="54e8505227edae1e583cf2f9554abc3a"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_evil.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="178255bb3fe2c3aa790c1f8ec8738504"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_mad.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="e4355c00894da1bd78341a6b54d20b56"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+<entry
+   committed-rev="2"
+   name="icon_idea.gif"
+   text-time="2009-11-13T14:56:08.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="aaebc9c048367118ba65e1da46bc3e08"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:08.000000Z"/>
+</wc-entries>

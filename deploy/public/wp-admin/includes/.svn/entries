@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-11-13T16:15:22.658268Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-admin/includes"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="82"
+   name="class-ftp.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="0e0389109a3fd469cf55acc2d974d5b4"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:24.000000Z"/>
+<entry
+   committed-rev="82"
+   name="plugin.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="b252ae3b3d4ecd6d98416d5c230e660c"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:25.000000Z"/>
+<entry
+   committed-rev="82"
+   name="plugin-install.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="e854b624a9a98247de2ac3a43b0590f0"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:25.000000Z"/>
+<entry
+   committed-rev="82"
+   name="class-pclzip.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="5eb649d754475c5ba8c03f43e9d4c35e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:26.000000Z"/>
+<entry
+   committed-rev="82"
+   name="bookmark.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="a682bdd2a59052ed0ee2f686cd912bdd"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:26.000000Z"/>
+<entry
+   committed-rev="82"
+   name="class-ftp-pure.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="ecc03dc71a4ecbaa30831d6375c6e15c"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:26.000000Z"/>
+<entry
+   committed-rev="82"
+   name="class-ftp-sockets.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="983e77ea48e8a21676334295e75e1e2f"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:26.000000Z"/>
+<entry
+   committed-rev="82"
+   name="manifest.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="4d5e9b6dc52bab7235999fb58633c3bd"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:26.000000Z"/>
+<entry
+   committed-rev="82"
+   name="taxonomy.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="e3bd63a4ae306fee68272541bc17fee1"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:26.000000Z"/>
+<entry
+   committed-rev="82"
+   name="file.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="aebfbe5a831756b9c2eab92b8234c385"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:26.000000Z"/>
+<entry
+   committed-rev="82"
+   name="update.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="e98e2fa4a3a3a9ad45ec914f2ab6f0dd"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:26.000000Z"/>
+<entry
+   committed-rev="82"
+   name="class-wp-filesystem-base.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="f33ae72d118fb3b405e4c38c7b044ef5"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:26.000000Z"/>
+<entry
+   committed-rev="82"
+   name="post.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="a53f8817d89b1d396e9ffb78e99b8953"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:27.000000Z"/>
+<entry
+   committed-rev="82"
+   name="dashboard.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="e38010fec18c2eb5e82925007c095c27"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:27.000000Z"/>
+<entry
+   committed-rev="82"
+   name="upgrade.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="83d8674eb2c0d969e8366f68c507d3f9"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:27.000000Z"/>
+<entry
+   committed-rev="82"
+   name="admin.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="1976c45c622641437e4e83771a20aa2c"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:27.000000Z"/>
+<entry
+   committed-rev="82"
+   name="misc.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="8ecf08693920efd68955b769c39261d9"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:27.000000Z"/>
+<entry
+   committed-rev="82"
+   name="class-wp-filesystem-ftpsockets.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="103ceabdaa0da8e1cb143737370cb691"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:27.000000Z"/>
+<entry
+   committed-rev="82"
+   name="schema.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="21bf0bdf60715b208941a27b8d41e946"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:27.000000Z"/>
+<entry
+   committed-rev="82"
+   name="class-wp-upgrader.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="106cc69da7f13ad3820be38ae913412f"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:27.000000Z"/>
+<entry
+   committed-rev="82"
+   name="theme.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="0356ab781892ac9a1c53ff0e5f86826c"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:28.000000Z"/>
+<entry
+   committed-rev="82"
+   name="comment.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="b951259804498c71bd6901dba9f175a7"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:28.000000Z"/>
+<entry
+   committed-rev="82"
+   name="continents-cities.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="024b57d99bbe8b9e133316d1e98fc79d"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:28.000000Z"/>
+<entry
+   committed-rev="82"
+   name="theme-install.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="feae973a353ef8d871e59a8568358a1a"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:28.000000Z"/>
+<entry
+   committed-rev="82"
+   name="widgets.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="c9d23e1e5f11155b9cb14f9bb9ca6522"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:28.000000Z"/>
+<entry
+   committed-rev="82"
+   name="update-core.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="a6b20656a4c8d0853972b9e441fce7c7"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:28.000000Z"/>
+<entry
+   committed-rev="82"
+   name="import.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="38cb3659f2da51e9c9c635e883920f00"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:28.000000Z"/>
+<entry
+   committed-rev="82"
+   name="template.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="197138e312f93ed92766a1a34d1c594b"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:29.000000Z"/>
+<entry
+   committed-rev="82"
+   name="user.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="c06bcb31a77362d9f419307f155d2dda"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:29.000000Z"/>
+<entry
+   committed-rev="82"
+   name="media.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="da8f1c48d945f78e8bb1ca9dc957c48f"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:30.000000Z"/>
+<entry
+   committed-rev="82"
+   name="export.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="34a08bf4b3cd07ba70cc95b790db03d3"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:30.000000Z"/>
+<entry
+   committed-rev="82"
+   name="image.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="71af3690851d90e9b0b9c90d3c04891e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:30.000000Z"/>
+<entry
+   committed-rev="82"
+   name="class-wp-filesystem-direct.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="b9631c47f1a55707c7ccc468e77e5813"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:30.000000Z"/>
+<entry
+   committed-rev="82"
+   name="class-wp-filesystem-ftpext.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="2c38d4f9b9e44407be7f9e4659b15779"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:30.000000Z"/>
+<entry
+   committed-rev="82"
+   name="class-wp-filesystem-ssh2.php"
+   text-time="2009-11-13T16:38:30.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="ed5f048601b8b7621d98e4b715324dd4"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:30.000000Z"/>
+</wc-entries>

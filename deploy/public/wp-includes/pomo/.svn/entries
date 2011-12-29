@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/pomo"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="84"
+   name="mo.php"
+   text-time="2009-11-13T16:37:54.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="44ffa96a94e1fbaee380b492a4743ddd"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:37:54.000000Z"/>
+<entry
+   committed-rev="84"
+   name="po.php"
+   text-time="2009-11-13T16:37:54.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="2dbafc1b5a3b744fafcb87b084767f0d"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:37:54.000000Z"/>
+<entry
+   committed-rev="84"
+   name="streams.php"
+   text-time="2009-11-13T16:37:54.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="db2cea2608720e1e990c3107b184915e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:37:54.000000Z"/>
+<entry
+   committed-rev="84"
+   name="entry.php"
+   text-time="2009-11-13T16:37:54.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="9a81062822fedc441fc78fdde236e828"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:37:54.000000Z"/>
+<entry
+   committed-rev="84"
+   name="translations.php"
+   text-time="2009-11-13T16:37:54.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="74140db3d59851b6408c4cab7465bd14"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:37:54.000000Z"/>
+</wc-entries>

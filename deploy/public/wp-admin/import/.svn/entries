@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="82"
+   name=""
+   committed-date="2009-11-13T16:15:22.658268Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-admin/import"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="82"
+   name="wp-cat2tag.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="5944d5a4154387738b970af23fed32c2"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="82"
+   name="livejournal.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="e99abd5cd281f6c0ccfd5baf52fcc017"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="82"
+   name="dotclear.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="de433f8ff866952a9a91a49f8370ae9e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="82"
+   name="utw.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="380d600de9773803d79f4e8ff8c8c358"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="82"
+   name="mt.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="4e31bcc6f6a87d26b40731862b8cb52b"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="82"
+   name="blogger.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="d7e0e19732f97a41e8e23036ebf11926"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="82"
+   name="textpattern.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="f298e25f2efbf3a5c480075cbe422b87"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="82"
+   name="blogware.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="20415f7ff4d106185b768a8c90514a18"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="2"
+   name="b2.php"
+   text-time="2009-11-13T14:56:38.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:38.000000Z"/>
+<entry
+   committed-rev="82"
+   name="greymatter.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="6961a7e931c50def9787677d87a1cc61"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="82"
+   name="stp.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="bda74909223cd3e3be2d3be58e4a1d70"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="82"
+   name="rss.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="6be458611debe108db3e59a0029f56c7"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="82"
+   name="opml.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="92b3b8101405d6caa71aacfd1c0553c0"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:32.000000Z"/>
+<entry
+   committed-rev="82"
+   name="wordpress.php"
+   text-time="2009-11-13T16:38:33.000000Z"
+   committed-date="2009-11-13T16:15:22.658268Z"
+   checksum="2bc1941f3b90078b0c437cd22fa75f4f"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:33.000000Z"/>
+</wc-entries>

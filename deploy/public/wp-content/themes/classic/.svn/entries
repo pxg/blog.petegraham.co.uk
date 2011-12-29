@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="83"
+   name=""
+   committed-date="2009-11-13T16:21:15.765855Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-content/themes/classic"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="83"
+   name="sidebar.php"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="3dc68f44538e33ba8d1d71147655ae72"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+<entry
+   committed-rev="2"
+   name="screenshot.png"
+   text-time="2009-11-13T14:56:31.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="60baf51fc9ae291e896257973cca52db"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:31.000000Z"/>
+<entry
+   committed-rev="83"
+   name="footer.php"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="b2433c370b3a57058e9d6732485c0c01"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+<entry
+   committed-rev="83"
+   name="style.css"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="af8bcec8729f678ca6891d94fb84d5ac"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+<entry
+   committed-rev="83"
+   name="rtl.css"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="77120614911aa1c74c604db40b6f8a84"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+<entry
+   committed-rev="83"
+   name="comments.php"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="51b8f64ab323a597b961bc2f58cc5bbc"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+<entry
+   committed-rev="83"
+   name="comments-popup.php"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="92b30369db46d783c3fb2c2d4929c5b0"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+<entry
+   committed-rev="83"
+   name="index.php"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="0083d2ae8be140e3001aa019ebc196d1"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+<entry
+   committed-rev="83"
+   name="header.php"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="de455e9fddaf5e5f43e8473736a5308e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+<entry
+   committed-rev="83"
+   name="functions.php"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="ada708407ce454d4bbb2c86fb19812e9"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+</wc-entries>

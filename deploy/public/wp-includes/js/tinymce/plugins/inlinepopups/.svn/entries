@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/js/tinymce/plugins/inlinepopups"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="84"
+   name="editor_plugin.js"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="047a9618f11ee697eec716c88dedd8e8"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+<entry
+   name="jscripts"
+   kind="dir"/>
+<entry
+   committed-rev="84"
+   name="template.htm"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="2b2ca7c291b8b1b867b44a6e5bca7991"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="editor_plugin_src.js"
+   text-time="2009-11-13T14:56:20.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:19.000000Z"/>
+<entry
+   name="skins"
+   kind="dir"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="2"
+   name="readme.txt"
+   text-time="2009-11-13T14:56:20.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:20.000000Z"/>
+</wc-entries>

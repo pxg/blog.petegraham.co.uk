@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="71"
+   name=""
+   committed-date="2007-04-12T14:15:10.139047Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-content/plugins/SK2/sk2_plugins"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="71"
+   name="sk2_rbl_plugin.php"
+   text-time="2009-11-13T14:56:29.000000Z"
+   committed-date="2007-04-12T14:15:10.139047Z"
+   checksum="58dcb8615148b0b6b770c5539c56e212"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:29.000000Z"/>
+<entry
+   committed-rev="71"
+   name="sk2_anubis_plugin.php"
+   text-time="2009-11-13T14:56:29.000000Z"
+   committed-date="2007-04-12T14:15:10.139047Z"
+   checksum="ddf6a4b0f6a62c2e13be4b155f4def02"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:29.000000Z"/>
+<entry
+   committed-rev="71"
+   name="sk2_pjw_daily_digest_plugin.php"
+   text-time="2009-11-13T14:56:29.000000Z"
+   committed-date="2007-04-12T14:15:10.139047Z"
+   checksum="d4d197b9dbde7131925999a6ca9a880b"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:29.000000Z"/>
+<entry
+   committed-rev="71"
+   name="sk2_snowball_plugin.php"
+   text-time="2009-11-13T14:56:29.000000Z"
+   committed-date="2007-04-12T14:15:10.139047Z"
+   checksum="0a9e5081f03dea4bdeb7acdc482da724"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:29.000000Z"/>
+<entry
+   committed-rev="71"
+   name="sk2_captcha_plugin.php"
+   text-time="2009-11-13T14:56:29.000000Z"
+   committed-date="2007-04-12T14:15:10.139047Z"
+   checksum="881827c530e695412ccb2cf9b7e003f9"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:29.000000Z"/>
+<entry
+   committed-rev="71"
+   name="sk2_basic_plugins.php"
+   text-time="2009-11-13T14:56:29.000000Z"
+   committed-date="2007-04-12T14:15:10.139047Z"
+   checksum="9c873fbc66674b6f9923d09bb8410ec6"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:29.000000Z"/>
+<entry
+   committed-rev="71"
+   name="sk2_javascript_plugin.php"
+   text-time="2009-11-13T14:56:29.000000Z"
+   committed-date="2007-04-12T14:15:10.139047Z"
+   checksum="7916f563db73b86646b5a170b27f2b41"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:29.000000Z"/>
+<entry
+   committed-rev="71"
+   name="sk2_blacklist_plugin.php"
+   text-time="2009-11-13T14:56:29.000000Z"
+   committed-date="2007-04-12T14:15:10.139047Z"
+   checksum="8389f271a297028ca4b6cf028dd1a930"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:29.000000Z"/>
+<entry
+   committed-rev="71"
+   name="sk2_payload_plugin.php"
+   text-time="2009-11-13T14:56:29.000000Z"
+   committed-date="2007-04-12T14:15:10.139047Z"
+   checksum="fb37c97b61555e99818f459ad3503ce8"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:29.000000Z"/>
+<entry
+   committed-rev="71"
+   name="sk2_referrer_check_plugin.php"
+   text-time="2009-11-13T14:56:29.000000Z"
+   committed-date="2007-04-12T14:15:10.139047Z"
+   checksum="0cf9e84fdb2d36d0a5de0ebc0a74d24a"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:29.000000Z"/>
+</wc-entries>

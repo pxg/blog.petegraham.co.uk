@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="44"
+   name=""
+   committed-date="2007-01-26T14:16:27.999859Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-content/plugins/livecalendar"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="44"
+   name="kcalendarscript.php"
+   text-time="2009-11-13T14:56:30.000000Z"
+   committed-date="2007-01-26T14:16:27.999859Z"
+   checksum="d34e89fb73c9581b20de48fce727841e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:30.000000Z"/>
+<entry
+   committed-rev="44"
+   name="xmlhttprequest.js"
+   text-time="2009-11-13T14:56:30.000000Z"
+   committed-date="2007-01-26T14:16:27.999859Z"
+   checksum="6856df5d8f80b24c099681b8ea1393aa"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:30.000000Z"/>
+<entry
+   committed-rev="44"
+   name="wait1.gif"
+   text-time="2009-11-13T14:56:31.000000Z"
+   committed-date="2007-01-26T14:16:27.999859Z"
+   checksum="5ecbba5ed31747e5ea14fe9dc83254e4"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:30.000000Z"/>
+<entry
+   committed-rev="44"
+   name="kcalendar.php"
+   text-time="2009-11-13T14:56:31.000000Z"
+   committed-date="2007-01-26T14:16:27.999859Z"
+   checksum="09ff0bd758fb016d1b78ae28088c3710"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:30.000000Z"/>
+<entry
+   committed-rev="44"
+   name="wait2.gif"
+   text-time="2009-11-13T14:56:31.000000Z"
+   committed-date="2007-01-26T14:16:27.999859Z"
+   checksum="cda2b9245b7a2d59c41b147a8e392a6d"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:30.000000Z"/>
+<entry
+   committed-rev="44"
+   name="readme.txt"
+   text-time="2009-11-13T14:56:31.000000Z"
+   committed-date="2007-01-26T14:16:27.999859Z"
+   checksum="31d77e3f72063b712296170000c36935"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:30.000000Z"/>
+<entry
+   committed-rev="44"
+   name="wait3.gif"
+   text-time="2009-11-13T14:56:31.000000Z"
+   committed-date="2007-01-26T14:16:27.999859Z"
+   checksum="29c9f0e425431864beb543c7f9660073"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:30.000000Z"/>
+</wc-entries>

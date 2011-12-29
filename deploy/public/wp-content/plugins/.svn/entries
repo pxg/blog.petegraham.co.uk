@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="83"
+   name=""
+   committed-date="2009-11-13T16:21:15.765855Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-content/plugins"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   name="SK2"
+   kind="dir"/>
+<entry
+   committed-rev="44"
+   name="livecalendar.php"
+   text-time="2009-11-13T14:56:31.000000Z"
+   committed-date="2007-01-26T14:16:27.999859Z"
+   checksum="dbc2a90f75bb1cb6c2b6103bb9633a8e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:30.000000Z"/>
+<entry
+   committed-rev="2"
+   name="wp-db-backup.php"
+   text-time="2009-11-13T14:56:31.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="51321f590368d6394cca3299ac4f46ed"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:30.000000Z"/>
+<entry
+   committed-rev="2"
+   name="wp-xmlmigrate.php"
+   text-time="2009-11-13T14:56:31.000000Z"
+   committed-date="2007-01-07T23:44:32.188793Z"
+   checksum="6e92ff6ba59144f379ad9a64065cdb46"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:30.000000Z"/>
+<entry
+   name="livecalendar"
+   kind="dir"/>
+<entry
+   committed-rev="83"
+   name="hello.php"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="00487ee0cfa3e15917db9bb48048deb4"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+<entry
+   committed-rev="74"
+   name="wp-hashcash.php"
+   text-time="2009-11-13T14:56:31.000000Z"
+   committed-date="2007-05-10T15:58:45.981665Z"
+   checksum="9622dfcb555d39ba7843ce7ec766587a"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T14:56:31.000000Z"/>
+<entry
+   name="akismet"
+   kind="dir"/>
+<entry
+   committed-rev="83"
+   name="index.php"
+   text-time="2009-11-13T16:38:22.000000Z"
+   committed-date="2009-11-13T16:21:15.765855Z"
+   checksum="96137494913a1f730a592e8932af394e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:22.000000Z"/>
+</wc-entries>

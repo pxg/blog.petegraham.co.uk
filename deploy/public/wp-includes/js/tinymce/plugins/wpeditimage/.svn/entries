@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/js/tinymce/plugins/wpeditimage"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="84"
+   name="editor_plugin.js"
+   text-time="2009-11-13T16:38:04.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="c4c59bfbf6ac1101ee884761914d76da"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+<entry
+   name="css"
+   kind="dir"/>
+<entry
+   committed-rev="84"
+   name="editimage.html"
+   text-time="2009-11-13T16:38:04.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="60340807d945876ff6da82338c84153a"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+<entry
+   name="img"
+   kind="dir"/>
+<entry
+   name="js"
+   kind="dir"/>
+<entry
+   committed-rev="84"
+   name="editor_plugin.dev.js"
+   text-time="2009-11-13T16:38:04.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="7e2136d5e077774bb677dcf3576cb203"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+</wc-entries>

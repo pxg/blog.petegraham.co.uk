@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/js/tinymce/themes/advanced/skins/wp_theme"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="84"
+   name="content.css"
+   text-time="2009-11-13T16:38:07.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="a1b36551d8a606622d8fa44f42850ec7"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:07.000000Z"/>
+<entry
+   committed-rev="84"
+   name="ui.css"
+   text-time="2009-11-13T16:38:07.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="a464cac9829cb4b064c6e3f91fcccb7c"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:07.000000Z"/>
+<entry
+   committed-rev="84"
+   name="dialog.css"
+   text-time="2009-11-13T16:38:07.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="9c93f6a41d7c635d738dd6796536a7c3"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:07.000000Z"/>
+<entry
+   name="img"
+   kind="dir"/>
+</wc-entries>

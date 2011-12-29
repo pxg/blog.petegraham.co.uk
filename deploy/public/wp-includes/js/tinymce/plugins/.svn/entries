@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/js/tinymce/plugins"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   name="wphelp"
+   kind="dir"/>
+<entry
+   name="media"
+   kind="dir"/>
+<entry
+   name="wpeditimage"
+   kind="dir"/>
+<entry
+   name="fullscreen"
+   kind="dir"/>
+<entry
+   name="directionality"
+   kind="dir"/>
+<entry
+   name="spellchecker"
+   kind="dir"/>
+<entry
+   name="inlinepopups"
+   kind="dir"/>
+<entry
+   name="safari"
+   kind="dir"/>
+<entry
+   name="tabfocus"
+   kind="dir"/>
+<entry
+   name="wpgallery"
+   kind="dir"/>
+<entry
+   name="autosave"
+   kind="dir"/>
+<entry
+   name="wordpress"
+   kind="dir"/>
+<entry
+   name="paste"
+   kind="dir"/>
+</wc-entries>

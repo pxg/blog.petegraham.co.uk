@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/js/swfupload/plugins"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="84"
+   name="swfupload.queue.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="9953522fbd4a1b02bbf635a92d76cd8f"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:03.000000Z"/>
+<entry
+   committed-rev="84"
+   name="swfupload.swfobject.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="cea8193a75561bb8ba40ea1809b96c67"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:03.000000Z"/>
+<entry
+   committed-rev="84"
+   name="swfupload.cookies.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="7fa57ec00dda88dd6b5c2037ccb4d5cf"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:03.000000Z"/>
+<entry
+   committed-rev="84"
+   name="swfupload.speed.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="d840d5988a2b8b64350faed539041550"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:03.000000Z"/>
+</wc-entries>

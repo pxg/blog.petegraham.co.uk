@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/images"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   name="crystal"
+   kind="dir"/>
+<entry
+   name="smilies"
+   kind="dir"/>
+<entry
+   committed-rev="84"
+   name="upload.png"
+   text-time="2009-11-13T16:38:17.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="11904681d8fc3a10d44a96acec2d9044"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:17.000000Z"/>
+<entry
+   name="wlw"
+   kind="dir"/>
+<entry
+   committed-rev="84"
+   name="rss.png"
+   text-time="2009-11-13T16:38:17.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="0ee254a56334189fd471afeec067186f"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:17.000000Z"/>
+<entry
+   committed-rev="84"
+   name="blank.gif"
+   text-time="2009-11-13T16:38:17.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="6d22e4f2d2057c6e8d6fab098e76e80f"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:17.000000Z"/>
+</wc-entries>

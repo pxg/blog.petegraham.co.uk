@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/js/tinymce/utils"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="84"
+   name="mctabs.js"
+   text-time="2009-11-13T16:38:04.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="7727d6ef7c831c363ebfe40fc3f4e144"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+<entry
+   committed-rev="84"
+   name="validate.js"
+   text-time="2009-11-13T16:38:04.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="6fc5abb84e8ba8ba87b12ad6806f48d1"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+<entry
+   committed-rev="84"
+   name="editable_selects.js"
+   text-time="2009-11-13T16:38:04.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="6ae9d8d2ae563c29652b41b0ace13cc1"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+<entry
+   committed-rev="84"
+   name="form_utils.js"
+   text-time="2009-11-13T16:38:04.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="950d229c37a570fc26a13da71d73f9b8"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+</wc-entries>

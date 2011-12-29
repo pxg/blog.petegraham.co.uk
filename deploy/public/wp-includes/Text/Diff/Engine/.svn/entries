@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/Text/Diff/Engine"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="84"
+   name="xdiff.php"
+   text-time="2009-11-13T16:38:19.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="741ea02215b1ca4eb1c8d64a07f3a450"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:19.000000Z"/>
+<entry
+   committed-rev="84"
+   name="native.php"
+   text-time="2009-11-13T16:38:19.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="e247115bac139d02c6187d21e9d2e5de"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:19.000000Z"/>
+<entry
+   committed-rev="84"
+   name="string.php"
+   text-time="2009-11-13T16:38:19.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="ec8296ac7f8f6a9d84ffa09d8153dd72"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:19.000000Z"/>
+<entry
+   committed-rev="84"
+   name="shell.php"
+   text-time="2009-11-13T16:38:19.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="d41590be828b5ccd5a09ea48d6cc117c"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:19.000000Z"/>
+</wc-entries>

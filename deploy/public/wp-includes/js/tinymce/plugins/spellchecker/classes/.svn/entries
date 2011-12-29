@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/js/tinymce/plugins/spellchecker/classes"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   name="utils"
+   kind="dir"/>
+<entry
+   committed-rev="84"
+   name="GoogleSpell.php"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="c6481cd9c06b9e3e4ed27c3ffdadee9b"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+<entry
+   committed-rev="84"
+   name="PSpell.php"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="dbc6556b5e976cbe545a0760c16d4ab9"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+<entry
+   committed-rev="84"
+   name="EnchantSpell.php"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="5688c3912e266411fea5c40e452a616e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+<entry
+   committed-rev="84"
+   name="SpellChecker.php"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="69d90a002a9989573165fb83891f83df"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+<entry
+   committed-rev="84"
+   name="PSpellShell.php"
+   text-time="2009-11-13T16:38:05.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="14be5b8b59128d99893c4bc2031c10f8"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:05.000000Z"/>
+</wc-entries>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/js/scriptaculous"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="84"
+   name="wp-scriptaculous.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="1b6a98a2e2b55d90a88524faea79f0a8"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:01.000000Z"/>
+<entry
+   committed-rev="84"
+   name="prototype.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="bab4179aef164e96e866b03ac432bdf7"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:02.000000Z"/>
+<entry
+   committed-rev="84"
+   name="builder.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="92cc9bddf6afcff5e641eeba9e3eacc0"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:02.000000Z"/>
+<entry
+   committed-rev="84"
+   name="sound.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="d654e517c3813d9a21280b6c2e58a8db"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:02.000000Z"/>
+<entry
+   committed-rev="84"
+   name="MIT-LICENSE"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="b72c811c3e4b902332903aacd47eef47"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:02.000000Z"/>
+<entry
+   committed-rev="84"
+   name="effects.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="29a97dc0bf45c93560b28421843b75c2"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:02.000000Z"/>
+<entry
+   committed-rev="84"
+   name="unittest.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="b41840d00193331f0fb68fc54f1085c6"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:02.000000Z"/>
+<entry
+   committed-rev="84"
+   name="scriptaculous.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="b4c44f312deb6cd7f76f8684276da04c"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:02.000000Z"/>
+<entry
+   committed-rev="84"
+   name="dragdrop.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="e07ef5d6af2980f8e72cd74e67690a54"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:02.000000Z"/>
+<entry
+   committed-rev="84"
+   name="slider.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="e38b722aa3e5bf6f52c521d9fca0235f"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:02.000000Z"/>
+<entry
+   committed-rev="84"
+   name="controls.js"
+   text-time="2009-11-13T16:38:03.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="fcf61880c81c69a8c892020de19216e6"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:03.000000Z"/>
+</wc-entries>

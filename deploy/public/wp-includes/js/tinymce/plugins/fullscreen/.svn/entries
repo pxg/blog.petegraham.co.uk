@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/js/tinymce/plugins/fullscreen"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="84"
+   name="editor_plugin.js"
+   text-time="2009-11-13T16:38:04.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="994124fa3bbad1cfc9fb9900c10a6b00"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+<entry
+   committed-rev="84"
+   name="fullscreen.htm"
+   text-time="2009-11-13T16:38:04.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="ca9817da53d28adaee86603ca94d69dc"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:04.000000Z"/>
+</wc-entries>

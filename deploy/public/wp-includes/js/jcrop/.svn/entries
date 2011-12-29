@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2009-11-13T16:29:11.271216Z"
+   url="http://opensvn.csie.org/PeteGrahamProject/htdocs/blog/wp-includes/js/jcrop"
+   last-author="pete"
+   kind="dir"
+   uuid="3499da3b-2222-0410-a823-fb2ab4618715"
+   repos="http://opensvn.csie.org/PeteGrahamProject"
+   revision="85"/>
+<entry
+   committed-rev="84"
+   name="Jcrop.gif"
+   text-time="2009-11-13T16:38:11.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="7a4b4c6ebdb549fcbe47408f9457493e"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:10.000000Z"/>
+<entry
+   committed-rev="84"
+   name="jquery.Jcrop.css"
+   text-time="2009-11-13T16:38:11.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="3888e9f93e218814c97a146069d104f1"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:10.000000Z"/>
+<entry
+   committed-rev="84"
+   name="jquery.Jcrop.dev.js"
+   text-time="2009-11-13T16:38:11.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="ed882314c841932770eab4413337b4b0"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:10.000000Z"/>
+<entry
+   committed-rev="84"
+   name="jquery.Jcrop.js"
+   text-time="2009-11-13T16:38:11.000000Z"
+   committed-date="2009-11-13T16:29:11.271216Z"
+   checksum="ead9e5f733592ae8f9b227507de37ee6"
+   last-author="pete"
+   kind="file"
+   prop-time="2009-11-13T16:38:11.000000Z"/>
+</wc-entries>
