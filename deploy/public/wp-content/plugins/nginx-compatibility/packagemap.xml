@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fileset>
+	<file>
+		<path>nginx-compatibility.php</path>
+		<type>php</type>
+		<license>bsd</license>
+	</file>
+	<file>
+		<path>nginx-compatibility-php4.php</path>
+		<type>php</type>
+		<license>bsd</license>
+	</file>
+</fileset>
