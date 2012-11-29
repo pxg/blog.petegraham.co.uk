@@ -1,0 +1,352 @@
+/*
+Theme Name:Binary News
+Theme URI: http://www.themeporter.com
+Version: 1.0
+Description: 2 Column theme
+Author: Theme Porter
+Author URI: http://www.themeporter.com
+*/
+
+/*
+By Herreman David
+http://www.free-css-templates.com
+StyleSheet for BinaryNews Template
+
+Modified by Pete Graham
+http://tech.petegraham.co.uk
+*/
+
+body {
+ background-color: #e7e7e7;
+ color: #FFF;
+ padding: 0; margin: 0; font: 0.7em Arial, sans-serif; line-height: 1.5em;
+}
+
+a { color: #4F0099; background: inherit; }
+a:hover { color: gray; background: inherit;}
+
+h1 { font: bold 2em Arial, Sans-Serif; letter-spacing: -1px; padding: 16px 0 0 8px; margin: 0; visibility:hidden; }
+h2 { margin: 0; padding: 0; font: normal 1.6em Arial, Sans-Serif; letter-spacing: -1px; }
+h1 a { color: #46574D; background: inherit; }
+h1 a, h2 a { text-decoration: none; }
+h1 a:hover, h2 a:hover {
+	color: #8400FF; text-decoration: underline; 
+}
+
+h2 a, h2 a:hover
+{
+	background:url("/main/images/pixel_skull.gif") no-repeat left top;
+}
+
+h3 { font: 90% Arial, Sans-Serif; margin: 0 0 10px 0; padding: 0; color: #46574D; background: #FFF; }
+/*p {	margin: 0 0 0px 0; line-height: 1.5em; }*/
+form { margin: 0; }
+
+input.search { width: 122px; height: 15px; border: 1px dashed #46574D; background: #FFF url(input.jpg) no-repeat; padding: 3px; color: #616161; }
+input.submit { width: 28px; height: 20px; font-weight: bold; border: none; background: #FFF; padding: 3px; color: #616161; }
+
+
+
+.content { 
+    background: #FFF; 
+	margin: 0 auto;
+	padding: 0px;
+	width: 886px;
+	color: #000;
+}
+
+.preheader {
+	background: #000 url(/main/images/preheader.jpg) no-repeat center bottom;
+	width: 886px;
+	height: 71px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.preheader a { color: #FFF; background: inherit; text-decoration:none; }
+.preheader a:hover { color: #FFF; background: inherit; text-decoration:underline;}
+
+.preheader .padding {
+	/*float: right;*/
+	padding: 52px 70px 0 0;
+	color: #FFF;
+}
+
+.padding
+{
+	margin-left: 60px;
+}
+
+.header {
+	background: #000 url(/main/images/header.jpg) no-repeat center bottom;
+	color: #FFF;
+	width: 886px;
+	height: 78px;
+	margin: 0;
+	padding: 0;
+}
+
+.header .title {
+	text-align: center;
+	padding: 20px 0 0 0;
+	color: #8400FF;
+	font-family: system;
+	font-size: 50px;
+}
+
+.header .slogan {
+	text-align: center;
+	clear: both;
+	padding: 15px 0 0 0;
+	font-size: 1.0em;
+       	font-family: Arial, sans-serif;
+	color: white;
+}
+
+
+#nav {
+	background: #000 url(/main/images/menu.jpg) no-repeat center bottom;
+	background-color: #000;
+	width: 886px;
+	height: 4px;
+	margin: 0;
+	padding: 0;
+}
+
+#nav ul { margin:0; list-style:none; padding: 0px 0 0 76px; }
+#nav a, #nav strong, #nav span { float:left; display:block; color:#fff; padding: 5px 10px 5px 10px; background: #9e9e9e; text-decoration:none; font-weight: bold; }
+#nav a { float:none; }
+#nav li { float:left; color: #FFF; background: #9e9e9e; margin:0; padding:0 0 0 0px; }
+#nav #current { float:left; background: #aeaeae; color: #FFF; }
+#nav #current a { float:left; background: #aeaeae; padding:5px 10px 5px 10px; color:#FFF; }
+#nav a:hover { float:left; color:#FFF; background: #aeaeae; }  
+#nav .padding { padding: 5px 0 0 10px; font-weight: bold; }
+
+
+.main_content {
+	background: #FFF url(/main/images/bg.jpg) repeat-y center bottom;
+	background-color: #FFF;
+	margin: 0 auto;
+	padding: 0px;
+	width: 886px;
+}
+
+
+.sd_left {
+
+    background-color: #FFF;
+	color: #000;
+	margin: 0 0 0px 80px;
+	padding: 0px 20px 0px 5px;
+	width: 480px;
+	
+}	
+
+.sd_right {
+    clear:both;
+    background-color: #FFF;
+	float: right;
+	color: #000;
+	margin: 0 90px 0 0;
+	padding: 0px 0px 0 15px;
+	width: 170px;
+	border-left: 1px dashed #ccc;
+}
+
+
+/* For IE... */
+* html .sd_right {
+    clear:both;
+    background-color: #FFF;
+	float: right;
+	color: #000;
+	margin: 0 40px 0 0;
+	padding: 0px 0px 0 15px;
+	width: 170px;
+	border-left: 1px dashed #ccc;
+}	
+
+
+.text_padding {
+	padding: 15px 0 0 0;
+}
+
+.main_content h2 {
+	background-color: #FFF;
+	padding: 5px 0 5px 0;
+	color: #8400FF;
+	font: bold 1.6em Arial, sans-serif;
+}
+
+h2
+{
+padding-left: 30px;
+}
+
+h2 a {
+	color: #8400FF; 
+	padding-left: 25px;
+}
+
+.date { 
+	color: #46574D; 
+	background: #FFFFFF;
+	text-align: right; 
+	margin: 10px 0 5px 0; 
+	padding: 0.4em 0 0 0; 
+	border-top: 1px solid #eee;
+}
+
+input.button { 
+	background: #FFFFF4; 
+	color: #808080;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+.comments { 
+	padding: 10px 10px 8px 10px; 
+	margin: 0 0 7px 0; 
+	background: #f8f8f8; 
+	color: #000;
+}
+
+.commentsbox { 
+	padding: 8px 0 10px 10px; 
+	margin: 0 0 10px 0; 
+	background: #f4f4f4; 
+	color: #000;
+}
+
+.error {
+	color: #990000;
+	background-color: #FFF0F0;
+	padding: 7px;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	border: 1px dashed #990000;
+}
+.error h2 {
+	color: #990000;
+	background: inherit;
+}
+
+.success {
+	color: #000000;
+	background: #F5FBE1;
+	padding: 7px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 1px dashed #7BA813;
+}
+.success h2 {
+	color: #7BA813;
+	background: inherit;
+}
+
+.footer { 
+	background: #000 url(/main/images/footer.jpg) center no-repeat;
+	width: 886px;
+	height: 78px;
+	color:#555;  
+	font-size:90%;
+	text-align:center; 
+	clear:both;
+}
+
+		.footer .padding {
+			padding: 40px 0 0 0;
+				
+		}
+
+
+		/* Comments Styling */
+#commentlist li {
+margin-bottom: 1.5em;
+padding-bottom: 1em;
+border-bottom: 1px solid #700000;
+}
+
+#commentform {
+margin: 1em 0;
+background: #ffffff;
+width: 280px;
+}
+
+#commentform textarea {
+background: #f8f7f6;
+border: 1px solid #d6d3d3;
+width: 280px;
+}
+#commentform textarea:hover {
+background: #FFFFFF;
+border: 1px solid #d6d3d3;
+}
+#commentform textarea:focus {
+background: #ffffff;
+border: 1px solid #939793;
+}
+
+#commentform #email, #commentform #author, #commentform #url {
+font-size: 1.1em;
+background: #f8f7f6;
+border: 1px solid #d6d3d3;
+width: 280px;
+}
+#commentform #email:hover, #commentform #author:hover, #commentform #url:hover {
+font-size: 1.1em;
+background: #ffffff;
+border: 1px solid #d6d3d3;
+width: 280px;
+}
+#commentform #email:focus, #commentform #author:focus, #commentform #url:focus {
+font-size: 1.1em;
+background: #ffffff;
+border: 1px solid #939793;
+width: 280px;
+}
+#commentform input{
+margin-bottom: 3px;
+}
+
+a img
+{
+border:none;
+}
+
+.title a, .title a:hover, .title a:visited
+{
+text-decoration:none;
+color: #8400FF;
+}
+
+.date a, .date:visited
+{
+text-decoration:none;
+}
+
+ul
+{
+list-style:square;
+}
+
+#one
+{
+	color: #AE00FF;
+}
+
+#two
+{
+	color: #8400FF;
+}
+
+#three
+{
+	color: #5A00FF;
+}
+
+#four
+{
+	color: #3000FF; /*#005AFF;*/
+}
